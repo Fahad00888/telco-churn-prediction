@@ -1,0 +1,19 @@
+# Data files
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Mac
+.DS_Store
+
+# Models
+*.pkl
+*.joblib
